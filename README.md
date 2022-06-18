@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoleoz&label=Profile%20views&color=0e75b6&style=flat" alt="ayoleoz" /> </p>
 
-- 🔭 I’m currently working on [online poker](https://github.com/FJWRoy/cardGame)
+- 🔭 I’m currently working on [a online poker application for party use](https://github.com/FJWRoy/cardGame)
 
 - 🌱 I’m currently learning **React, C#, Reinforcement Learning**
 
