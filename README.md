@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Tianze "Leo" Zheng</h1>
+<h1 align="center">Hi👋, I'm Tianze "Leo" Zheng</h1>
 <h3 align="center">Second-year master student at UPenn. A passionate software developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoleoz&label=Profile%20views&color=0e75b6&style=flat" alt="ayoleoz" /> </p>
+
+## 🚀 About Me
 
 - 🔭 I’m currently working on [a online poker application for party use](https://github.com/FJWRoy/cardGame)
 
